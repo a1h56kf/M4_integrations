@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESPONSIVE3</title>
+
+    <style>
+
+        .item1 {grid-area: A;}
+        .item2 { grid-area: C; }
+        .item3 { grid-area: B; }
+        .item4 { grid-area: D; }
+        .item5 { grid-area: E; }
+        .item6 { grid-area: F; }
+
+        
+        .grid-container {
+                display: grid;
+                grid-template-areas:
+                    'A A A A A A '
+                    'C B B B B E'
+                    'C D D D D E'
+                    'F F F F F F';
+  
+                    gap: 20px;
+                    background-color: #000000;
+                    padding: 10px;
+
+                    }
+
+         .grid-container > div {
+
+                background-color: rgb(89, 32, 112);
+                text-align: center;
+                padding: 30px;
+                font-size: 50px;
+                    }
+
+
+
+    </style>
+
+</head>
+    
+
+
+
+
+
+<body>
+    <div class="grid-container" style="color: rgb(149, 93, 212);">
+        <div class="item1">A</div>
+        <div class="item2">C</div>
+        <div class="item3">B</div>
+        <div class="item4">D</div>
+        <div class="item5">E</div>
+        <div class="item6">F</div>
+    </div>
+
+</body>
+</html>
