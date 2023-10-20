@@ -1,0 +1,67 @@
+.box {
+    border: 2px rgb(0, 0, 0);
+    height: 1150px;
+    width: 800px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 2%;
+
+} 
+
+
+#case2 {
+
+    padding-top:1%;
+    position: relative;
+    right: 0px;
+    padding-right: 2%;
+    
+    }
+
+#case3 {
+
+    padding-top:1%;
+    position: relative;
+    left: 305px;
+    bottom: 458px;
+            
+            
+        }
+    
+#case4 {
+    
+    padding-top: 1%;
+    position: relative;
+    bottom: 880px;
+    left: 571px;
+
+        }
+
+#case5 {
+    
+    padding-top: 1%;
+    position: relative;
+    bottom: 837px;
+    right: 0px;
+        
+        }
+
+#case6 {
+    
+    padding-top: 1%;
+    position: relative;
+    bottom: 1172px;
+    left: 305px;
+                
+        }
+
+
+#case7 {
+    
+    padding-top: 2%;
+    position: relative;
+    bottom: 1172px;
+    right: 0px;
+                        
+        }
+            

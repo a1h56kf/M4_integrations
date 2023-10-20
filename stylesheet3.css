@@ -1,0 +1,57 @@
+.box {
+    border: 2px rgb(0, 0, 0);
+    height: 1150px;
+    width: 800px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 2%;
+
+} 
+
+
+#case2 {
+
+    padding-top:2%;
+    position: relative;
+    right: 0px;
+    padding-right: 2%;
+    
+    }
+
+#case3 {
+
+    padding-top:2%;
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+            
+            
+        }
+    
+#case4 {
+    
+    padding-top: 2%;
+    position: relative;
+    bottom: 469px;
+    left: 230px;
+
+        }
+
+#case5 {
+    
+    padding-top: 2%;
+    position: relative;
+    bottom: 937px;
+    left: 448px;
+        
+        }
+
+#case6 {
+    
+    padding-top: 0%;
+    position: relative;
+    bottom: 921px;
+    left: 0px;
+                
+        }
+            
